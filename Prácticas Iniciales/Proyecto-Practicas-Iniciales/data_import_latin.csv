@@ -1,0 +1,91 @@
+NombreCurso;catapellido;catnombre;auxapellido;auxnombre;cod;indice
+Analisis y Diseño de Sistemas 1;MORALES PRADO;JOSE RICARDO;Mendizábal Rabanales;Juan Raul;283;1
+Analisis y Diseño de Sistemas 2;GUEVARA ORELLANA;WILLIAM SAMUEL;Soto Castañeda;Brandon Javier;785;2
+Analisis y Diseño de Sistemas 2;ALDANA LARRAZABAL;MIRNA IVONNE;Girón Reyes;Darwin Dodany;785;3
+Arquitectura de Computadoras y Ensambladores 1;ESCOBAR LEIVA;OTTO RENE;Argueta Aragón;Herberth Josué;778;4
+Arquitectura de Computadoras y Ensambladores 1;ESCOBAR LEIVA;OTTO RENE;Retana Arriola;Susel Eugenia;778;5
+Arquitectura de Computadoras y Ensambladores 2;DIAS LOPEZ;GABRIEL ALEJANDRO;Canté López;Carlos Enrique;779;6
+Bases de Datos 1;RODRIGUEZ ACOSTA;OTTO AMILCAR;Perucho Ramírez;Hilbert Josué;774;7
+Bases de Datos 1;ESPINO BARRIOS;LUIS FERNANDO;Castillo Avendaño;Jonnathan Antonio;774;8
+Bases de Datos 2;LONGO MORALES;ALVARO GIOVANNI;López López;Luis Alejandro;775;9
+Bases de Datos 2;ARIAS;LUIS ALBERTO;Cortéz Bendfeldt;Astrid Ileana;775;10
+Economia;RALDA RECINOS DE ILLESCAS;ILEANA GUISELA;Mejía Lemus;Kevin Oswaldo;14;11
+Economia;RALDA RECINOS DE ILLESCAS;ILEANA GUISELA;Garcia Quiroa;Eder Yafeth;14;12
+Economia;RALDA RECINOS DE ILLESCAS;ILEANA GUISELA;Mejía Lemus;Kevin Oswaldo;14;13
+Economia;RALDA RECINOS DE ILLESCAS;ILEANA GUISELA;Garcia Quiroa;Eder Yafeth;14;14
+Economia;MORALES RUIZ ;EVELYN CAROLINA;Ramírez Sandoval;Fredy José;14;15
+Emprendedores de Negocios Informáticos;ALTAN SAC ;LUDWING FEDERICO;Cortéz Bendfeldt;Astrid Ileana;790;16
+Estructura de Datos;Guzmán;Jesús Alberto;Martínez Marroquín;Marvin Ronaldo;772;17
+Estructura de Datos;HERNANDEZ GARCIA;ALVARO OBRAYAN;Landaverde González;Juan Luis;772;18
+Estructura de Datos;ESPINO BARRIOS;LUIS FERNANDO;Avalos Soto;Carlos Andree;772;19
+Gerenciales 2;VETTORAZZI ESPANA;LUIS ALBERTO;Moino Rodriguez;Cristian Esteban;787;20
+Gerenciales 2;VETTORAZZI ESPANA;LUIS ALBERTO;de León Secay;Kevin Alberto;787;21
+Inteligencia Artificial 1;ESPINO BARRIOS;LUIS FERNANDO;Gutierrez Ovando;Jorge Mario;972;22
+Introducción a la Programación y Computación 1;ORELLANA LOPEZ ;MARLON FRANCISCO;Reyes Portillo;Herbert Rafael;770;23
+Introducción a la Programación y Computación 1;ZEPEDA AREVALO;BYRON RODOLFO;Pérez Mena;Ingrid Rossana;770;24
+Introducción a la Programación y Computación 1;VELASQUEZ OLIVA;MOISES EDUARDO;Hernández Rivera;Pablo Andrés;770;25
+Introducción a la Programación y Computación 1;VELIZ LINARES;HERMAN IGOR;Jiménez Pérez;Carlos Roberto;770;26
+Introducción a la Programación y Computación 1;CALDERON MENDEZ;NEFTALI DE JESUS;Bautista Méndez;Ariel Alejandro;770;27
+Introducción a la Programación y Computación 2;Pérez Türk;Marlon Antonio;Muhun Recinos;Tanya Beatriz;771;28
+Introducción a la Programación y Computación 2;ROJAS MORALES;CLAUDIA LICETH;Cruz Ortiz;Kevin Ariel;771;29
+Introducción a la Programación y Computación 2;RUIZ JUAREZ ;JOSE MANUEL;Juárez López;Juan Pablo;771;30
+Introducción a la Programación y Computación 2;ESCOBAR ARGUETA;WILLIAM ESTUARDO;Herrera Castro;Mauro Alejandro;771;31
+Introducción a la Programación y Computación 2;Zapeta Gómez;Edwin Estuardo;López Flores;Andrea María;771;32
+Lenguajes Formales y de Programación;RODRIGUEZ ACOSTA;OTTO AMILCAR;Cabrera Puente;Javier Alberto;796;33
+Lenguajes Formales y de Programación;STAFF;STAFF;Véliz Sandoval;José Manuel;796;34
+Lenguajes Formales y de Programación;STAFF;STAFF;Morales López;Luis Manuel;796;35
+Lenguajes Formales y de Programación;STAFF;STAFF;Véliz Sandoval;José Manuel;796;36
+Lenguajes Formales y de Programación;STAFF;STAFF;Morales López;Luis Manuel;796;37
+Lenguajes Formales y de Programación;STAFF;STAFF;Urías Coc;Danilo;796;38
+Logica de Sistemas;TALA AYERDI ;VIRGINIA VICTORIA;Hernández Arroyo;Erick Fernando;795;39
+Logica de Sistemas;TALA AYERDI ;VIRGINIA VICTORIA;Ruiz Piox;Fernando Vidal;795;40
+Logica de Sistemas;AVILA PESQUERA DE MEDINILLA;FLORIZA FELIPA;Pensamiento Calderón;Fernando Arturo;795;41
+Logica de Sistemas;AVILA PESQUERA DE MEDINILLA;FLORIZA FELIPA;Ruiz Piox;Fernando Vidal;795;42
+Logica de Sistemas;AVILA PESQUERA DE MEDINILLA;FLORIZA FELIPA;Pensamiento Calderón;Fernando Arturo;795;43
+Logica de Sistemas;AVILA PESQUERA DE MEDINILLA;FLORIZA FELIPA;Ruiz Piox;Fernando Vidal;795;44
+Manejo e Implementación de Archivos;DIAZ ARDAVIN ;JUAN ALVARO;Hernández Gramajo;Carlos Luis Pablo;773;45
+Manejo e Implementación de Archivos;PAZ CAMPOS;OSCAR ALEJANDRO;Vargas León;Luis Angel;773;46
+Modelacion y Simulación 1;CANCINOS RENDON;MIGUEL ANGEL;Vásquez Cos;Jorge Mauricio;729;47
+Modelación y Simulación 2;FERNANDEZ CACERES;CESAR AUGUSTO;Santiago Brito;Brayan Ezequiel;720;48
+Organización Computacional;ESCOBAR LEIVA;OTTO RENE;Berrios Gutierrez;Diego Josue;964;49
+Organización Computacional;ESCOBAR LEIVA;OTTO RENE;Menéndez Tobías;Ricardo Antonio;964;50
+Organización de Lenguajes y Compiladores 2;LOPEZ LOPEZ;BAYRON WOSVELY;Alvarado López;Cristian David;781;51
+Organización de Lenguajes y Compiladores 2;SABAN RAXON;EDGAR RUBEN;Vásquez Flores;Pavel Alexander;781;52
+Organización de Lenguajes y Compiladores 2;Navarro Delgado;Erick Carlos Roberto;Flores Díaz;Erik Gerardo;781;53
+Organización Lenguajes y Compiladores 1;BAUTISTA FUENTES;MARIO JOSE;Mazariegos de León;Luis Fernando;777;54
+Organización Lenguajes y Compiladores 1;BAUTISTA FUENTES;MARIO JOSE;Puac Ixcamparic;José Francisco;777;55
+Organización Lenguajes y Compiladores 1;BAUTISTA FUENTES;MARIO JOSE;Mazariegos de León;Luis Fernando;777;56
+Organización Lenguajes y Compiladores 1;BAUTISTA FUENTES;MARIO JOSE;Puac Ixcamparic;José Francisco;777;57
+Organización Lenguajes y Compiladores 1;BAUTISTA FUENTES;MARIO JOSE;Mazariegos de León;Luis Fernando;777;58
+Organización Lenguajes y Compiladores 1;BAUTISTA FUENTES;MARIO JOSE;Puac Ixcamparic;José Francisco;777;59
+Organización Lenguajes y Compiladores 1;CASTILLO REYNA ;MANUEL HAROLDO;Gómez Gómez;Huriel Uvaldo;777;60
+Organización Lenguajes y Compiladores 1;Lajpop Ajpacajá;Kevin Adiel;Paz González;Fernando José;777;61
+Prácticas Iniciales;GOMEZ BRAVO;SERGIO LEONEL;Leal Cardona;Sergio Geovany;2025;62
+Prácticas Intermedias;AVILA PESQUERA DE MEDINILLA;FLORIZA FELIPA;Aguilar Cuque;Douglas Daniel;2036;63
+Programación Comercial 1;STAFF;STAFF;Chaicoj Cotzojay;Julio Antonio;667;64
+Programación Comercial 1;MENENDEZ PEREZ;GUIPPSY JEANNIRA;Chaicoj Cotzojay;Julio Antonio;667;65
+Programación Comercial 1;VELIZ LINARES;HERMAN IGOR;Torres Caal;Carlos Eduardo;667;66
+Programación de Computadoras 1 090;VELIZ LINARES;HERMAN IGOR;Arias Molina;Haroldo Pablo;90;67
+Programación de Computadoras 1 090;VELIZ LINARES;HERMAN IGOR;Recinos Dieguez;Jorge Mario;90;68
+Programación de Computadoras 1 090;VELIZ LINARES;HERMAN IGOR;Arias Molina;Haroldo Pablo;90;69
+Programación de Computadoras 1 090;VELIZ LINARES;HERMAN IGOR;Recinos Dieguez;Jorge Mario;90;70
+Programación de Computadoras 2;VELIZ LINARES;HERMAN IGOR;Vicente Campos;Andrea Nicte;92;71
+Programación de Computadoras 2;VELIZ LINARES;HERMAN IGOR;Ardón Lechuga;Ruth Nohemy;92;72
+Programación de Computadoras 2;VELIZ LINARES;HERMAN IGOR;Vicente Campos;Andrea Nicte;92;73
+Programación de Computadoras 2;VELIZ LINARES;HERMAN IGOR;Ardón Lechuga;Ruth Nohemy;92;74
+Programación de Computadoras 2;VELIZ LINARES;HERMAN IGOR;Gil Chacón;Carlos Giovani;92;75
+Programación de Computadoras 2;SILVA DE LOS ANGELES;JOSE ANIBAL;Corleto Soto;Oscar Ariel;92;76
+Programación de Computadoras 2;SILVA DE LOS ANGELES;JOSE ANIBAL;Corleto Soto;Oscar Ariel;92;77
+Redes de computadoras 1;HERNANDEZ RAMIREZ;PEDRO PABLO;Montúfar Cordero;Andrés Alejandro;970;78
+Redes de Computadoras 2;LOPEZ FERNANDEZ;MANUEL FERNANDO;Masaya Nájera;Dennis Alejandro;975;79
+Seminario de Sistemas 1;LOPEZ FERNANDEZ;MANUEL FERNANDO;Hernández Juárez;Fernando;797;80
+Seminario de Sistemas 1;LOPEZ FERNANDEZ;MANUEL FERNANDO;Hernández Juárez;Fernando;797;81
+Seminario de Sistemas 2;VETTORAZZI ESPANA;LUIS ALBERTO;Cortez Sic;Breynner Miguel;798;82
+Sistemas Operativos 1;MENDEZ AGUILAR;SERGIO ARNALDO;Alvarado Castellanos;David Andrés;281;83
+Sistemas Operativos 1;MENDEZ AGUILAR;SERGIO ARNALDO;Alvarado Castellanos;David Andrés;281;84
+Sistemas Operativos 1;STAFF;STAFF;Sánchez Túchez;Sebastián;281;85
+Sistemas Operativos 2;Batz Saquimux;Cesar Rolando;Velásquez Fuentes;Franklin Estuardo;285;86
+Sistemas Organizaciones y Gerenciales 1;Zapeta Gómez;Edwin Estuardo;Axpuac Yoc;Bayron Romeo;786;87
+Software Avanzado;MEDINILLA RODRIGUEZ;EVEREST DARWIN;Alvarez Morán;José Augusto;780;88
+Teoria de Sistemas 1;ALVAREZ MEJIA;JORGE LUIS;Estrada Martínez;Kevin Eduardo;722;89
+Teoria de Sistemas 2;ALVAREZ MEJIA;JORGE LUIS;Bautista Mazariegos;José Carlos;724;90

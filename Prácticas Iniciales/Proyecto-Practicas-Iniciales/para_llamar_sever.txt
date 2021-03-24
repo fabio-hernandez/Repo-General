@@ -1,0 +1,42 @@
+para lista 
+para insertar
+{
+    "Carnet":201314826,
+    "Nombres":"Rafael",
+  "Apellidos": "Chocoj",
+  "constrasenia":"123",
+  "correo":"correo@gmail.com"
+}
+http://localhost:3000/users
+
+lista de publicaciones
+http://localhost:3000/public
+
+insert publicacion
+{
+    "Mensaje":"sale en vacas",
+    "Carnet":201314826,
+    "fecha":"2012/04/30 10:14:23",
+  "idCatedraticoCurso": null,
+  "idCurso":781,
+  "idCatedratico":null,
+  "Tipo":1
+}
+
+listado de coemtario
+http://localhost:3000/public/liscom/1
+
+insert comentario
+http://localhost:3000/public/insercomen
+
+
+listado de cursos
+http://localhost:3000/public/liscurso
+
+listado de catedaticos
+http://localhost:3000/public/liscate
+tipo C, categratico
+tipo A, auxiliar
+
+listado de catedaticos en curso
+http://localhost:3000/public/liscatecurso
