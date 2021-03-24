@@ -1,0 +1,23 @@
+﻿Pseudocódigo HT1
+
+
+
+1. Inicio
+
+2. Entrar a la plataforma
+  
+	2.1 Colocar datos y contraseña
+
+3. Ir a asignaciones
+
+4. Seleccionar período del año
+
+5. Seleccionar asignación 
+
+6. Seleccione entre una de las 2 sección
+
+7. Si la sección deseada tiene más de 15 estudiantes que muestre el mensaje sección llena
+ 
+	7.1 Si la siguiente sección tiene más de 15 estudiantes que muestre el mensaje abré una nueva sección
+	
+7.2 Sino asignado con éxito
